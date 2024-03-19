@@ -1,0 +1,12 @@
+insert into planet (name, size, mass, star_id) values ('United States', 371, 1395, 5);
+insert into planet (name, size, mass, star_id) values ('Dominican Republic', 482, 2909, 4);
+insert into planet (name, size, mass, star_id) values ('Ukraine', 61, 9609, 4);
+insert into planet (name, size, mass, star_id) values ('China', 99, 4064, 2);
+insert into planet (name, size, mass, star_id) values ('South Africa', 109, 2312, 2);
+insert into planet (name, size, mass, star_id) values ('Philippines', 328, 1574, 2);
+insert into planet (name, size, mass, star_id) values ('Czech Republic', 437, 6674, 6);
+insert into planet (name, size, mass, star_id) values ('Ethiopia', 349, 1249, 3);
+insert into planet (name, size, mass, star_id) values ('China', 87, 2913, 5);
+insert into planet (name, size, mass, star_id) values ('France', 102, 5058, 2);
+insert into planet (name, size, mass, star_id) values ('Philippines', 68, 2975, 2);
+insert into planet (name, size, mass, star_id) values ('United States', 450, 1367, 3);

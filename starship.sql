@@ -1,0 +1,10 @@
+insert into starship (name, destroyed, galaxy_id) values ('Puce', true, 3);
+insert into starship (name, destroyed, galaxy_id) values ('Violet', true, 3);
+insert into starship (name, destroyed, galaxy_id) values ('Mauv', false, 3);
+insert into starship (name, destroyed, galaxy_id) values ('Maroon', false, 2);
+insert into starship (name, destroyed, galaxy_id) values ('Blue', false, 5);
+insert into starship (name, destroyed, galaxy_id) values ('Teal', false, 4);
+insert into starship (name, destroyed, galaxy_id) values ('Purple', true, 2);
+insert into starship (name, destroyed, galaxy_id) values ('Indigo', false, 4);
+insert into starship (name, destroyed, galaxy_id) values ('Khaki', true, 2);
+insert into starship (name, destroyed, galaxy_id) values ('Turquoise', false, 5);
